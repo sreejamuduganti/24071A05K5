@@ -1,0 +1,10 @@
+{
+  "name": "college-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cd college && npm start",
+    "build": "cd college && npm run build",
+    "test": "cd college && npm test"
+  }
+}
